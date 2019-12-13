@@ -1,0 +1,20 @@
+* {
+	background-color: lightgrey;
+}
+
+h2 {
+	color: rgb(255, 115, 0);
+}
+
+section{
+	float:left; 
+	margin-left:30px;
+  }
+  
+  .cropada {
+	width: 200px;
+	height: 200px;
+	background-position: center center;
+	background-repeat: no-repeat;
+  }
+
